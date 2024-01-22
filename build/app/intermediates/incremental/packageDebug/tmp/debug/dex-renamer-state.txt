@@ -1,0 +1,4 @@
+#Mon Jan 22 18:08:49 WIB 2024
+base.0=D\:\\Folder Fery\\Folder Flutter\\country_picker_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
